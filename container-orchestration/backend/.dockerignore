@@ -1,0 +1,13 @@
+target/
+.mvn/
+mvnw
+mvnw.cmd
+.git
+.gitignore
+.dockerignore
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+bin/
