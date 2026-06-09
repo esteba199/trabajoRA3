@@ -1,4 +1,4 @@
-# 📘 Deployment Manual
+# Deployment Manual
 ## Optimized Container Orchestration for Web Applications
 
 This document provides complete instructions for compiling, deploying, and validating the multi-tier containerized web application environment for **2º DAW - Despliegue de Aplicaciones Web**.
